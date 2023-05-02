@@ -1,0 +1,21 @@
+:root{
+    --White: hsl(0, 0%, 100%);
+    --Black: hsl(0, 0%, 0%);
+    --Dark-Gray: hsl(0, 0%, 55%);
+    --Very-Dark-Gray: hsl(0, 0%, 41%);
+
+    font-size: 15px;
+
+    --FS-HXL: 4.8rem;
+    --LH-HXL: 4.6rem;
+
+    --FS-HL: 3.2rem;
+    --LH-HL: 3.4rem;
+
+    --FS-HM: 2.13rem;
+    --LH-HM: 2.13rem;
+
+
+    --FF-VF: "josefin_sans_thinregular";
+    --FF-RF: "alataregular";
+}
